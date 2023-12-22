@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table border="1">
+  <tr>
+    <th>DPI Type</th>
+    <th>First Instance</th>
+    <th>Second Instance</th>
+  </tr>
+  <tr>
+    <td>Transient</td>
+    <td>@ViewBag.t1</td>
+    <td>@ViewBag.t2</td>
+  </tr>
+  <tr>
+    <td>Scoped</td>
+    <td>@ViewBag.s1</td>
+    <td>@ViewBag.s2</td>
+  </tr>
+  <tr>
+    <td>Singleton</td>
+    <td>@ViewBag.si1</td>
+    <td>@ViewBag.si2</td>
+  </tr>
+</table>

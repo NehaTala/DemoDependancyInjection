@@ -1,0 +1,14 @@
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\bin\Debug\net6.0\DPI.Data.deps.json
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\bin\Debug\net6.0\DPI.Data.runtimeconfig.json
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\bin\Debug\net6.0\DPI.Data.dll
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\bin\Debug\net6.0\ref\DPI.Data.dll
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\bin\Debug\net6.0\DPI.Data.pdb
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.csproj.AssemblyReference.cache
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.AssemblyInfoInputs.cache
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.AssemblyInfo.cs
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.csproj.CoreCompileInputs.cache
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.dll
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\ref\DPI.Data.dll
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.pdb
+D:\DOT NET COre MVC project for learning\.Net Core Projects\DemoDependancyInjection\DPI.Data\obj\Debug\net6.0\DPI.Data.genruntimeconfig.cache
